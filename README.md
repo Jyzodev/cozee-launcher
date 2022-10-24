@@ -1,5 +1,5 @@
 # cozee-launcher
-A bad launcher i made for my server and now its open source for people learning C#
+A bad Fortnite launcher i made for my server and now its open source for people learning C#
 
 **This code may be bad but you can learn from it**
 
