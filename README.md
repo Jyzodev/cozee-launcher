@@ -6,9 +6,13 @@ A bad Fortnite launcher i made for my server and now its open source for people 
 **Credits :**
 <br/>
 Cranium.dll ( SSL bypasser ) made by Sizzy
-cozee.dll ( play button listener ) made by me and nax
+<br/>
+cozee.dll ( play button listener ) made by me and nax Only works with my hosts
+<br/>
 Console.dll ( UniversalFNConsole ) made by notsamicc
+<br/>
 Lawinserver made by lawin#0001
+<br/>
 
 The interface is bad but you can learn from LaunchFN.cs for launching game
 <br/> 
