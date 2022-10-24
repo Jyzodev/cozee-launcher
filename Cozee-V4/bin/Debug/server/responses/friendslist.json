@@ -1,0 +1,37 @@
+[
+  {
+    "accountId": "Skyix",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-10-08T23:04:27.680Z",
+    "favorite": false
+  },
+  {
+    "accountId": "Jyzo",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-10-10T12:52:59.627Z",
+    "favorite": false
+  },
+  {
+    "accountId": "'Skyix",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-10-15T01:07:01.202Z",
+    "favorite": false
+  },
+  {
+    "accountId": "idfk",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-10-15T01:51:52.463Z",
+    "favorite": false
+  },
+  {
+    "accountId": "Jyzo.",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-10-22T15:32:58.258Z",
+    "favorite": false
+  }
+]

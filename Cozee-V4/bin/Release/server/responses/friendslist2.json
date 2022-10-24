@@ -1,0 +1,29 @@
+{
+  "friends": [
+    {
+      "accountId": "Skyix",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-10-08T23:04:27.680Z"
+    },
+    {
+      "accountId": "Jyzo",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-10-10T12:52:59.627Z"
+    }
+  ],
+  "incoming": [],
+  "outgoing": [],
+  "suggested": [],
+  "blocklist": [],
+  "settings": {
+    "acceptInvites": "public"
+  }
+}

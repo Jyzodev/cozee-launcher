@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cozee-V4", "Cozee-V4\Cozee-V4.csproj", "{653838E4-6E9E-4A60-837C-9FEB928A9CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{653838E4-6E9E-4A60-837C-9FEB928A9CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653838E4-6E9E-4A60-837C-9FEB928A9CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653838E4-6E9E-4A60-837C-9FEB928A9CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653838E4-6E9E-4A60-837C-9FEB928A9CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {554C45B6-5BE5-43B4-8C01-73FFABBA1062}
+	EndGlobalSection
+EndGlobal
