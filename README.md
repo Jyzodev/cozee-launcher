@@ -3,11 +3,12 @@ A bad launcher i made for my server and now its open source for people learning 
 
 **This code may be bad but you can learn from it**
 
-C**redits :**
+**Credits :**
 <br/>
 Cranium.dll ( SSL bypasser ) made by Sizzy
 cozee.dll ( play button listener ) made by me and nax
 Console.dll ( UniversalFNConsole ) made by notsamicc
+Lawinserver made by lawin#0001
 
 The interface is bad but you can learn from LaunchFN.cs for launching game
 <br/> 
@@ -18,7 +19,7 @@ Discord : jyzo.#6858
 
 And if you just want to use this launcher for your server and changing name make sure to credit the ppl below :
 <br/>
-**NotSamicc , Sizzy , Jyzo.#6858**
+**NotSamicc , Sizzy , Jyzo.#6858 , lawin#0001**
 <br/>
 And remove cozee.dll
 <br/>
