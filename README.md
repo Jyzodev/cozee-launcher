@@ -1,7 +1,7 @@
 # cozee-launcher
 A bad Fortnite launcher i made for my server and now its open source for people learning C#
 
-<h1> MAKE SURE TO EXTRACT COZEE-V4/obj.rar AND COZEE-V4/bin/Debug.rar TO GET ALL REQUIRED FILES <h1/>
+<h2> MAKE SURE TO EXTRACT COZEE-V4/obj.rar AND COZEE-V4/bin/Debug.rar TO GET ALL REQUIRED FILES <h2/>
 
 **This code may be bad but you can learn from it**
 
